@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii , I'm Arvind Yadav, a skilled and creative web developer with a passion for creating beautiful, responsive, and user-friendly websites !!
+<h2>Hii , I'm Arvind Yadav, a skilled and creative web developer with a passion for creating beautiful, responsive, and user-friendly websites !!</h2>
 
 
 ## 🌐 Socials:
